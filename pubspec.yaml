@@ -1,6 +1,6 @@
 name: sample_plugin_secure_storage
 description: "Sample Plugin Secure Storage"
-version: 0.0.1
+version: 0.0.2
 homepage:
 
 environment:
